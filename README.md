@@ -8,7 +8,7 @@ interview practice, tracking, and rejection analysis — into one system
 where each module feeds the next.
 
 
-## Why it's different
+## Why its different
 
 | Feature | What it does |
 |---|---|
